@@ -22,7 +22,8 @@ list_of_files = [
     "prams.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb"
+    "research/trails.ipynb",
+    "templates/index.html"
 
 
 ]
